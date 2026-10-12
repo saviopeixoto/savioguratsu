@@ -7,8 +7,8 @@ Experienced web developer PHP & JavaScript enthusiast
 <div>
   <a href="https://github.com/savioguratsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savioguratsu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioguratsu&layout=compact&langs_count=7&theme=dark"/>
-    
+  <br/>
+  <img src='https://jj-ghtoplangs.alwaysdata.net/toplangs?user=saviopeixoto&limit=6' />
 
 <div style="display: inline_block"> <br>
   <img align="center"   height="60" width="70" src="https://github.com/SavioGuratsu/devicon/blob/master/icons/php/php-original.svg">
